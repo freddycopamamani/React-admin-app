@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       
         <p>
-          In this series
+          Aplicacion de React Js
         </p>
 
     </div>
